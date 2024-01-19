@@ -44,7 +44,6 @@ The dataset has been automatically translate by using [Argos Translate](https://
 - **Homepage:** [https://rowanzellers.com/hellaswag/](https://rowanzellers.com/hellaswag/)
 - **Repository:** [https://github.com/rowanz/hellaswag/](https://github.com/rowanz/hellaswag/)
 - **Paper:** [HellaSwag: Can a Machine Really Finish Your Sentence?](https://arxiv.org/abs/1905.07830)
-- **Point of Contact:** [More Information Needed](https://github.com/huggingface/datasets/blob/master/CONTRIBUTING.md#how-to-contribute-to-the-dataset-cards)
 - **Size of downloaded dataset files:** 71.49 MB
 - **Size of the generated dataset:** 65.32 MB
 - **Total amount of disk used:** 136.81 MB
