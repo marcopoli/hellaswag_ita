@@ -1,4 +1,4 @@
-# Italian version of the HellaSwag Dataset.
+# Italian version of the HellaSwag Dataset
 The dataset has been automatically translate by using [Argos Translate](https://github.com/argosopentech/argos-translate) v. 1.9.1
 
 ### Citation Information
